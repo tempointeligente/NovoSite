@@ -7,7 +7,17 @@ const IA_LIST = [
     "logoUrl": "logos/iamrx0wi2x6y1bi.jpg",
     "videoUrl": "videos/iamrx0wi2x6y1bi.mp4",
     "novidade": true,
-    "novidadeDefinida": true
+    "novidadeDefinida": true,
+    "layout": {
+      "headerTop": 9.248841318010705,
+      "headerLeft": 21.842316571403952,
+      "headerWidth": 52,
+      "headerHeight": 15,
+      "resumoTop": 32.03903534181131,
+      "resumoLeft": 13.176042444565718,
+      "resumoWidth": 75.50212366440718,
+      "resumoHeight": 36.99828249887651
+    }
   },
   {
     "id": "iamrx157ihc5tly",
