@@ -26,6 +26,16 @@ const IA_LIST = [
     "logoUrl": "logos/iamrx157ihc5tly.png",
     "videoUrl": "videos/iamrx157ihc5tly.mp4",
     "novidade": true,
-    "novidadeDefinida": true
+    "novidadeDefinida": true,
+    "layout": {
+      "headerTop": 8.05776017473168,
+      "headerLeft": 18.58751813103171,
+      "headerWidth": 52,
+      "headerHeight": 15,
+      "resumoTop": 24.68450376905815,
+      "resumoLeft": 15.378675573012412,
+      "resumoWidth": 71.06465238683364,
+      "resumoHeight": 61.799591980034464
+    }
   }
 ];
